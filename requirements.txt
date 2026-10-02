@@ -1,0 +1,6 @@
+# Direct dependencies pinned to versions used in the project checks.
+# pip installs their required transitive dependencies.
+pandas==2.2.3
+ortools==9.12.4544
+matplotlib==3.10.8
+reportlab==4.4.9

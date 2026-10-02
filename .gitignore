@@ -1,0 +1,23 @@
+# Local inputs, player information, generated reports and snapshots
+/data/
+/output/
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local configuration and operating-system/editor files
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated packages
+*.zip
